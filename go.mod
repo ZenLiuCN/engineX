@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/Joker/jade v1.1.3
-	github.com/ZenLiuCN/engine v0.6.2
+	github.com/ZenLiuCN/engine v0.6.4
 	github.com/ZenLiuCN/fn v0.1.34
 	github.com/dop251/goja v0.0.0-20240731150404-c665f0b58f6e
 	github.com/dslipak/pdf v0.0.2
