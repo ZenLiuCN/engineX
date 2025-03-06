@@ -13,7 +13,6 @@ require (
 	github.com/urfave/cli/v2 v2.27.1
 	github.com/xuri/excelize/v2 v2.8.1
 )
-
 require (
 	filippo.io/edwards25519 v1.1.0 // indirect
 	github.com/apache/arrow/go/v17 v17.0.0 // indirect
