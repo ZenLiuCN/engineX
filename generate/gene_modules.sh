@@ -1,5 +1,5 @@
 #!/bin/sh
-#go install github.com/ZenLiuCN/engine/gene@v0.6.2
+#go install github.com/ZenLiuCN/engineX/gene@v0.6.2
 
 pkg="github.com/ZenLiuCN/engineX/modules/"
 checkEmpty() {
