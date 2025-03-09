@@ -10,11 +10,10 @@ import (
 	"github.com/ZenLiuCN/engine"
 	"github.com/ZenLiuCN/engineX/modules/go/sqlx"
 	"github.com/ZenLiuCN/fn"
-	"github.com/marcboeker/go-duckdb/v2"
-	//"github.com/ZenLiuCN/go-duckdb"
-	//_ "github.com/ZenLiuCN/go-duckdb"
 	"github.com/dop251/goja"
 	sqlx2 "github.com/jmoiron/sqlx"
+	//"github.com/marcboeker/go-duckdb/v2" //still buggy
+	"github.com/marcboeker/go-duckdb"
 )
 
 var (
