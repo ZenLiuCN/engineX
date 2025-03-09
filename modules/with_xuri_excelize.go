@@ -1,4 +1,4 @@
-//go:build (exclize || all) && !no_jade && !no_exclize
+//go:build (exclize || all) && !no_exclize
 
 package modules
 

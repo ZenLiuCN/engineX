@@ -17,6 +17,8 @@ function generate() {
           echo "ignore sample $file"
       elif [[ "$file" == */.* ]] ;then
           echo "ignore dot $file"
+      elif [[ "$file" == */cmd/* ]] ;then
+          echo "ignore cmd $file"
       elif [[ "$file" == */doc ]] ;then
           echo "ignore doc $file"
       elif [[ "$file" == *"/ws" ]]; then
@@ -32,5 +34,6 @@ function generate() {
     done
 }
 
-generate "D:/Dev/tmp/go/pkg/mod/github.com/larksuite/base-sdk-go/v3@v3.0.2/"
-generate "D:/Dev/tmp/go/pkg/mod/github.com/larksuite/oapi-sdk-go/v3@v3.3.0/"
+#generate "D:/Dev/tmp/go/pkg/mod/github.com/larksuite/base-sdk-go/v3@v3.0.2/"
+#generate "D:/Dev/tmp/go/pkg/mod/github.com/larksuite/oapi-sdk-go/v3@v3.3.0/"
+generate "D:/Dev/tmp/go/pkg/mod/golang.design/x/clipboard@v0.7.0/"
