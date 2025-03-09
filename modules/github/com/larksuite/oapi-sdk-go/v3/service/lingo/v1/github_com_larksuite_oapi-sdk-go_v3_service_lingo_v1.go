@@ -5,8 +5,8 @@ import (
 	_ "embed"
 	"github.com/ZenLiuCN/engine"
 
-	_ "github.com/ZenLiuCN/engine/modules/golang/context"
-	_ "github.com/ZenLiuCN/engine/modules/golang/io"
+	_ "github.com/ZenLiuCN/engineX/modules/golang/context"
+	_ "github.com/ZenLiuCN/engineX/modules/golang/io"
 	_ "github.com/ZenLiuCN/engineX/modules/github/com/larksuite/oapi-sdk-go/v3/core"
 	"github.com/larksuite/oapi-sdk-go/v3/service/lingo/v1"
 )

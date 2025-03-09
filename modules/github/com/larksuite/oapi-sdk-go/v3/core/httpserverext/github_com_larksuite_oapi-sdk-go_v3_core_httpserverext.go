@@ -5,7 +5,7 @@ import (
 	_ "embed"
 	"github.com/ZenLiuCN/engine"
 
-	_ "github.com/ZenLiuCN/engine/modules/golang/net/http"
+	_ "github.com/ZenLiuCN/engineX/modules/golang/net/http"
 	_ "github.com/ZenLiuCN/engineX/modules/github/com/larksuite/oapi-sdk-go/v3/card"
 	_ "github.com/ZenLiuCN/engineX/modules/github/com/larksuite/oapi-sdk-go/v3/event"
 	_ "github.com/ZenLiuCN/engineX/modules/github/com/larksuite/oapi-sdk-go/v3/event/dispatcher"

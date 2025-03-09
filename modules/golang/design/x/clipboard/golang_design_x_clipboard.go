@@ -6,13 +6,13 @@ import (
 	"github.com/ZenLiuCN/engine"
 	"github.com/dop251/goja"
 
-	_ "github.com/ZenLiuCN/engine/modules/golang/archive/zip"
-	_ "github.com/ZenLiuCN/engine/modules/golang/bytes"
-	_ "github.com/ZenLiuCN/engine/modules/golang/encoding/xml"
-	_ "github.com/ZenLiuCN/engine/modules/golang/image/color"
-	_ "github.com/ZenLiuCN/engine/modules/golang/io"
-	_ "github.com/ZenLiuCN/engine/modules/golang/sync"
-	_ "github.com/ZenLiuCN/engine/modules/golang/time"
+	_ "github.com/ZenLiuCN/engineX/modules/golang/archive/zip"
+	_ "github.com/ZenLiuCN/engineX/modules/golang/bytes"
+	_ "github.com/ZenLiuCN/engineX/modules/golang/encoding/xml"
+	_ "github.com/ZenLiuCN/engineX/modules/golang/image/color"
+	_ "github.com/ZenLiuCN/engineX/modules/golang/io"
+	_ "github.com/ZenLiuCN/engineX/modules/golang/sync"
+	_ "github.com/ZenLiuCN/engineX/modules/golang/time"
 	"golang.design/x/clipboard"
 )
 

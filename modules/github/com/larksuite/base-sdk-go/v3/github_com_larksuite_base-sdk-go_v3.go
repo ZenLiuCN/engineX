@@ -5,9 +5,9 @@ import (
 	_ "embed"
 	"github.com/ZenLiuCN/engine"
 
-	_ "github.com/ZenLiuCN/engine/modules/golang/context"
-	_ "github.com/ZenLiuCN/engine/modules/golang/net/http"
-	_ "github.com/ZenLiuCN/engine/modules/golang/time"
+	_ "github.com/ZenLiuCN/engineX/modules/golang/context"
+	_ "github.com/ZenLiuCN/engineX/modules/golang/net/http"
+	_ "github.com/ZenLiuCN/engineX/modules/golang/time"
 	_ "github.com/ZenLiuCN/engineX/modules/github/com/larksuite/base-sdk-go/v3/core"
 	_ "github.com/ZenLiuCN/engineX/modules/github/com/larksuite/base-sdk-go/v3/service/base/v1"
 	_ "github.com/ZenLiuCN/engineX/modules/github/com/larksuite/base-sdk-go/v3/service/drive/v1"

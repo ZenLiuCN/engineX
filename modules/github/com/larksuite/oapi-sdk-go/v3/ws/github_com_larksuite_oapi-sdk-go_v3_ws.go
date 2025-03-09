@@ -5,9 +5,9 @@ import (
 	_ "embed"
 	"github.com/ZenLiuCN/engine"
 
-	_ "github.com/ZenLiuCN/engine/modules/golang/context"
-	_ "github.com/ZenLiuCN/engine/modules/golang/encoding/json"
-	_ "github.com/ZenLiuCN/engine/modules/golang/fmt"
+	_ "github.com/ZenLiuCN/engineX/modules/golang/context"
+	_ "github.com/ZenLiuCN/engineX/modules/golang/encoding/json"
+	_ "github.com/ZenLiuCN/engineX/modules/golang/fmt"
 	_ "github.com/ZenLiuCN/engineX/modules/github/com/larksuite/oapi-sdk-go/v3/core"
 	_ "github.com/ZenLiuCN/engineX/modules/github/com/larksuite/oapi-sdk-go/v3/event/dispatcher"
 	"github.com/larksuite/oapi-sdk-go/v3/ws"
