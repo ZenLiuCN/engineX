@@ -9,7 +9,7 @@ require (
 	github.com/Joker/jade v1.1.3
 	github.com/ZenLiuCN/engine v0.7.0
 	github.com/ZenLiuCN/fn v0.1.34
-	github.com/ZenLiuCN/go-inspect v0.0.0-20240528050524-44839580487c
+	github.com/ZenLiuCN/go-inspect v0.0.0-20240802145921-f31534fff484
 	github.com/dop251/goja v0.0.0-20250307175808-203961f822d6
 	github.com/dslipak/pdf v0.0.2
 	github.com/fsnotify/fsnotify v1.7.0
