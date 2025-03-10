@@ -18,7 +18,7 @@ require (
 	github.com/jmoiron/sqlx v1.4.0
 	github.com/larksuite/base-sdk-go/v3 v3.0.2
 	github.com/larksuite/oapi-sdk-go/v3 v3.3.0
-	github.com/marcboeker/go-duckdb v1.8.5
+	github.com/marcboeker/go-duckdb v1.8.0
 	github.com/mattn/go-colorable v0.1.13
 	github.com/tdewolff/minify/v2 v2.20.37
 	github.com/urfave/cli/v2 v2.27.3
@@ -31,14 +31,13 @@ require (
 )
 
 require (
-	github.com/apache/arrow-go/v18 v18.1.0 // indirect
+	github.com/apache/arrow/go/v17 v17.0.0 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.4 // indirect
 	github.com/dlclark/regexp2 v1.11.5 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
 	github.com/evanw/esbuild v0.25.0 // indirect
 	github.com/go-akka/configuration v0.0.0-20200606091224-a002c0330665 // indirect
 	github.com/go-sourcemap/sourcemap v2.1.4+incompatible // indirect
-	github.com/go-viper/mapstructure/v2 v2.2.1 // indirect
 	github.com/goccy/go-json v0.10.5 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/google/flatbuffers v25.1.24+incompatible // indirect
@@ -52,6 +51,7 @@ require (
 	github.com/klauspost/compress v1.17.11 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.9 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
+	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826 // indirect
 	github.com/ncruces/go-strftime v0.1.9 // indirect
 	github.com/pierrec/lz4/v4 v4.1.22 // indirect
@@ -59,6 +59,7 @@ require (
 	github.com/richardlehane/mscfb v1.0.4 // indirect
 	github.com/richardlehane/msoleps v1.0.3 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
+	github.com/stretchr/testify v1.10.0 // indirect
 	github.com/tdewolff/parse/v2 v2.7.15 // indirect
 	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1 // indirect
 	github.com/xuri/efp v0.0.0-20240408161823-9ad904a10d6d // indirect
@@ -74,6 +75,7 @@ require (
 	golang.org/x/sync v0.12.0 // indirect
 	golang.org/x/text v0.23.0 // indirect
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da // indirect
+	gonum.org/v1/gonum v0.15.1 // indirect
 	modernc.org/gc/v3 v3.0.0-20240801135723-a856999a2e4a // indirect
 	modernc.org/libc v1.55.7 // indirect
 	modernc.org/mathutil v1.6.0 // indirect
