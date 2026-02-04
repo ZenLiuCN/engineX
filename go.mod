@@ -7,7 +7,7 @@ toolchain go1.24.1
 require (
 	filippo.io/edwards25519 v1.1.0
 	github.com/Joker/jade v1.1.3
-	github.com/ZenLiuCN/engine v0.7.0
+	github.com/ZenLiuCN/engine v0.7.2
 	github.com/ZenLiuCN/fn v0.1.34
 	github.com/ZenLiuCN/go-inspect v0.0.0-20240802145921-f31534fff484
 	github.com/dop251/goja v0.0.0-20250307175808-203961f822d6
